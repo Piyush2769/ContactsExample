@@ -26,6 +26,10 @@ public class MainActivity extends AppCompatActivity {
     private Image i3s;
 
 
+    private TextView d2s1s;
+    private Image i3ss;
+
+
 
 
     @Override
