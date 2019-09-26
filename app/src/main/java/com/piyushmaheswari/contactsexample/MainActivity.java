@@ -22,6 +22,11 @@ public class MainActivity extends AppCompatActivity {
     private TextView d21;
     private Image i3;
 
+    private TextView d21s;
+    private Image i3s;
+
+
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
